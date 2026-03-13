@@ -15,7 +15,7 @@ os.makedirs(output_dir, exist_ok=True)
 # Daten laden
 # -------------------------
 
-with open("gpt_ergebnisse3/zusammenfassung.json", "r", encoding="utf-8") as f:
+with open("gpt_ergebnisse/zusammenfassung.json", "r", encoding="utf-8") as f:
     films = json.load(f)
 
 # -------------------------
