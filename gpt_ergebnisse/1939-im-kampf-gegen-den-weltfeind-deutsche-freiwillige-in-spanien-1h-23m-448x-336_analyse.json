@@ -1,0 +1,70 @@
+{
+  "film": "1939-im-kampf-gegen-den-weltfeind-deutsche-freiwillige-in-spanien-1h-23m-448x-336",
+  "source_group": "nazi subs",
+  "n_chunks": 4,
+  "scores": {
+    "totalitarianism": 3.0,
+    "national_honour": 3.0,
+    "racial_superiority": 2.0,
+    "freedom_from_tyranny": 0.25,
+    "universal_equality": 0.0,
+    "guardian_of_civilization": 0.25,
+    "necessity_of_war": 1.5,
+    "enemy_imagery": 2.75,
+    "heroism_sacrifice": 3.0
+  },
+  "chunk_details": [
+    {
+      "totalitarianism": 3,
+      "national_honour": 3,
+      "racial_superiority": 2,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 2,
+      "enemy_imagery": 3,
+      "heroism_sacrifice": 3,
+      "reasoning": "The excerpt strongly glorifies obedience and subordination to leaders (e.g., Franco, Hitler), frames the communist forces as chaotic destroying enemies, invokes national honor in the struggle to save Spain, depicts racial and ideological enemy inferiority, justifies German intervention as necessary against communism, demonizes the communist enemy, and praises heroic sacrifice by national troops.",
+      "chunk_id": 1
+    },
+    {
+      "totalitarianism": 3,
+      "national_honour": 3,
+      "racial_superiority": 2,
+      "freedom_from_tyranny": 1,
+      "universal_equality": 0,
+      "guardian_of_civilization": 1,
+      "necessity_of_war": 2,
+      "enemy_imagery": 3,
+      "heroism_sacrifice": 3,
+      "reasoning": "The text strongly glorifies obedience to the Führer and German military might (totalitarianism), emphasizes sacrifice and glory for the nation (national_honour), and reflects a biological-political struggle against communism (racial_superiority). It portrays the conflict as necessary to defend against communism (necessity_of_war) and depicts enemies in demonizing terms (enemy_imagery). Heroic sacrifice is highly praised. Elements of freedom from tyranny and guardian of civilization appear weakly, given emphasis on anti-communist stance as defending order.",
+      "chunk_id": 2
+    },
+    {
+      "totalitarianism": 3,
+      "national_honour": 3,
+      "racial_superiority": 2,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 3,
+      "heroism_sacrifice": 3,
+      "reasoning": "The excerpt glorifies obedience and military subordination (totalitarianism), emphasizes sacrifice for the nation and military victories (national_honour), presents the enemy (the Reds/Bolsheviks) in dehumanizing terms implying racial/political purity ideology (racial_superiority). The enemy is demonized (enemy_imagery) while heroic fighting and sacrifices by the German and allied troops are extolled (heroism_sacrifice). There is a weak implicit justification of war necessity given the reference to continued struggle.",
+      "chunk_id": 3
+    },
+    {
+      "totalitarianism": 3,
+      "national_honour": 3,
+      "racial_superiority": 2,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 2,
+      "heroism_sacrifice": 3,
+      "reasoning": "The excerpt strongly promotes obedience to the Führer and glorifies sacrifice for the nation, reflecting totalitarian and national honor themes. Racial superiority is moderately present through emphasis on German and allied (Spanish, Italian) unity against a common enemy. Enemy imagery is also strong, depicting the enemy as targets to be destroyed. War necessity is weakly implied as a justified defensive campaign.",
+      "chunk_id": 4
+    }
+  ]
+}

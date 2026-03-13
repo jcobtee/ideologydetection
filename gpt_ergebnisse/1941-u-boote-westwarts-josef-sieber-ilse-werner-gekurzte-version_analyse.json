@@ -1,0 +1,122 @@
+{
+  "film": "1941-u-boote-westwarts-josef-sieber-ilse-werner-gekurzte-version",
+  "source_group": "nazi subs",
+  "n_chunks": 8,
+  "scores": {
+    "totalitarianism": 1.75,
+    "national_honour": 2.125,
+    "racial_superiority": 0.25,
+    "freedom_from_tyranny": 0.0,
+    "universal_equality": 0.0,
+    "guardian_of_civilization": 0.0,
+    "necessity_of_war": 0.875,
+    "enemy_imagery": 1.0,
+    "heroism_sacrifice": 2.125
+  },
+  "chunk_details": [
+    {
+      "totalitarianism": 2,
+      "national_honour": 2,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 1,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt emphasizes military procedure and camaraderie reflecting obedience and discipline (totalitarianism), and pride in naval achievements (national honour). There is implicit necessity of war in pursuit of enemy targets, with mild enemy threat implied. Heroic sacrifice is moderately present in the portrayal of naval duty and preparations.",
+      "chunk_id": 1
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 2,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 0,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 1,
+      "reasoning": "The excerpt features implicit totalitarian themes of obedience and duty, alongside moderate national honour through references to sacrifice and homefront sentiment. There is also weak heroism and sacrifice reflected in naval/military context, but no explicit racial or enemy demonization, nor American ideological themes.",
+      "chunk_id": 2
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 1,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 2,
+      "reasoning": "The dialogue highlights obedience and duty to military chain of command (totalitarianism, necessity_of_war), glorifies fulfilling military roles and accepting one's assigned place (national_honour), and emphasizes sacrifice and commitment to the mission and comrades (heroism_sacrifice). There is no explicit racial ideology or enemy demonization.",
+      "chunk_id": 3
+    },
+    {
+      "totalitarianism": 2,
+      "national_honour": 2,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 1,
+      "heroism_sacrifice": 2,
+      "reasoning": "The dialogue reflects strong military discipline and obedience (totalitarianism) and emphasizes duty and sacrifice for the nation (national honour, heroism_sacrifice). There is some mention of enemy forces as targets, implying threat presence (enemy_imagery) and a weak sense of the necessity of war as part of duty.",
+      "chunk_id": 4
+    },
+    {
+      "totalitarianism": 2,
+      "national_honour": 2,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 1,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt contains clear hierarchical military command structure emphasizing obedience (totalitarianism) and highlights camaraderie and self-sacrifice (heroism_sacrifice) within a nationalist context (national_honour). Enemy vessels are spotted and the threat implied (enemy_imagery), and the urgency of fulfilling orders suggests the necessity_of_war. However, there is no explicit racial ideology or themes of freedom from tyranny present.",
+      "chunk_id": 5
+    },
+    {
+      "totalitarianism": 2,
+      "national_honour": 3,
+      "racial_superiority": 1,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 2,
+      "heroism_sacrifice": 2,
+      "reasoning": "The dialogue emphasizes military duty, obedience, and camaraderie among German sailors (totalitarianism). There is strong glorification of naval military success and patriotic celebration (national_honour). Enemy ships are depicted as legitimate targets with some implied duplicity (enemy_imagery) and the war effort is justified implicitly (necessity_of_war). Racial superiority is weakly present through subtle dehumanization and distrust of the enemy.",
+      "chunk_id": 6
+    },
+    {
+      "totalitarianism": 2,
+      "national_honour": 2,
+      "racial_superiority": 1,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 2,
+      "heroism_sacrifice": 3,
+      "reasoning": "The excerpt depicts military actions with strong emphasis on duty and obedience, reflecting totalitarianism and national honour through sacrifice and camaraderie. Enemy imagery is clear with references to the 'Tommy' (British) as adversaries. There is implicit racial superiority in the dehumanizing tone. The necessity of war is weakly present as participation seems inevitable. Heroism and sacrifice are strongly emphasized in the combat context.",
+      "chunk_id": 7
+    },
+    {
+      "totalitarianism": 2,
+      "national_honour": 3,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 1,
+      "heroism_sacrifice": 3,
+      "reasoning": "The dialogue emphasizes obedience and following orders (totalitarianism), glorifies dying for the fatherland as honorable (national_honour), depicts the English as enemy forces (enemy_imagery), implicitly justifies war engagement (necessity_of_war), and strongly glorifies sacrifice for the nation (heroism_sacrifice). No racial superiority themes or American ideological elements are present.",
+      "chunk_id": 8
+    }
+  ]
+}

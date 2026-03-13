@@ -1,0 +1,122 @@
+{
+  "film": "himmelsturmer-1941",
+  "source_group": "nazi subs",
+  "n_chunks": 8,
+  "scores": {
+    "totalitarianism": 1.0,
+    "national_honour": 2.625,
+    "racial_superiority": 0.375,
+    "freedom_from_tyranny": 0.0,
+    "universal_equality": 0.0,
+    "guardian_of_civilization": 0.0,
+    "necessity_of_war": 0.375,
+    "enemy_imagery": 0.375,
+    "heroism_sacrifice": 1.875
+  },
+  "chunk_details": [
+    {
+      "totalitarianism": 1,
+      "national_honour": 3,
+      "racial_superiority": 1,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 0,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 1,
+      "reasoning": "The excerpt strongly emphasizes German technological and scientific achievements in aviation as a source of national pride, indicative of 'national_honour'. The glorification of German inventors and the implicit attribution of superiority in aviation development suggest weak 'racial_superiority'. The reverence for pioneers and their sacrifices yields a weak presence of 'heroism_sacrifice'. The promotion of German innovation and collective advancement hints at weak 'totalitarianism' through the subordination of individual accomplishment into a national narrative.",
+      "chunk_id": 1
+    },
+    {
+      "totalitarianism": 0,
+      "national_honour": 1,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 0,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 1,
+      "reasoning": "The excerpt emphasizes pioneering aviation heroes and their sacrifices, highlighting individual accomplishments and risks taken, which relate weakly to national honor and heroism; however, there is no explicit totalitarian, racial, or wartime ideological content typical of propaganda.",
+      "chunk_id": 2
+    },
+    {
+      "totalitarianism": 0,
+      "national_honour": 2,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 0,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 1,
+      "reasoning": "The excerpt strongly emphasizes the glory and achievements of German aviation pioneers, highlighting national pride and technological progress (national_honour). There is mild focus on the risks and sacrifices made by aviators (heroism_sacrifice), but no explicit ideological content related to totalitarianism, racial superiority, or enemy demonization.",
+      "chunk_id": 3
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 3,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt strongly emphasizes national honor through pride in German technological and military achievements, glorification of sacrifice in service of the nation, and historical military narrative; there is implicit totalitarianism in the portrayal of dedication to state goals and military figures; war necessity appears subtly as an inevitable part of progress; heroism and sacrifice are moderately highlighted through references to struggles and efforts in aviation development.",
+      "chunk_id": 4
+    },
+    {
+      "totalitarianism": 2,
+      "national_honour": 3,
+      "racial_superiority": 1,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 2,
+      "heroism_sacrifice": 3,
+      "reasoning": "The film strongly glorifies military heroism and self-sacrifice (heroism_sacrifice) and emphasizes national pride and military achievements (national_honour). It presents obedience and subordination to military command, typical of totalitarian ideology. Enemy imagery is evident in describing enemy ships and aircraft as targets and threats. There is a weak implication of racial or national superiority through contrasts with English and French forces. A moderate justification of war appears through highlighting the inevitability and valor of combat.",
+      "chunk_id": 5
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 3,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 0,
+      "enemy_imagery": 1,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt strongly glorifies German aviation achievements and historical heroic figures, emphasizing national honor and sacrifice. Obedience and devotion to national symbols are implicit, with enemy aircraft repurposed under German control, contributing to mild enemy imagery. There is no emphasis on racial superiority or American ideological perspectives.",
+      "chunk_id": 6
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 3,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 0,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt strongly emphasizes national pride and military/aviation achievements, glorifying sacrifice and heroic feats tied to German technological prowess and perseverance, with implicit subordination to national goals but lacking direct totalitarian rhetoric or enemy demonization.",
+      "chunk_id": 7
+    },
+    {
+      "totalitarianism": 2,
+      "national_honour": 3,
+      "racial_superiority": 1,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 3,
+      "reasoning": "The text strongly glorifies national achievement and military aviation as heroic and vital to national defense, emphasizing German efforts and technological superiority (national_honour and heroism_sacrifice). There is a moderate presence of totalitarianism in celebrating obedience and collective victory through the Luftwaffe. Racial superiority is weakly present through implicit hierarchies in aviation prowess, while the war's necessity is moderately implied by references to defense and conquest of airspace.",
+      "chunk_id": 8
+    }
+  ]
+}

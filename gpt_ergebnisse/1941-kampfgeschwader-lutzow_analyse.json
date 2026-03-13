@@ -1,0 +1,122 @@
+{
+  "film": "1941-kampfgeschwader-lutzow",
+  "source_group": "nazi subs",
+  "n_chunks": 8,
+  "scores": {
+    "totalitarianism": 1.375,
+    "national_honour": 2.375,
+    "racial_superiority": 0.25,
+    "freedom_from_tyranny": 0.0,
+    "universal_equality": 0.0,
+    "guardian_of_civilization": 0.0,
+    "necessity_of_war": 0.875,
+    "enemy_imagery": 1.0,
+    "heroism_sacrifice": 2.375
+  },
+  "chunk_details": [
+    {
+      "totalitarianism": 2,
+      "national_honour": 3,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 0,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 3,
+      "reasoning": "The excerpt strongly emphasizes military camaraderie, obedience, and the idealization of soldierly virtues (totalitarianism 2). It glorifies military tradition, honor, and sacrifice for the nation (national_honour 3) as well as heroism and collective dedication to duty (heroism_sacrifice 3). There is no mention of racial ideology or enemy portrayal.",
+      "chunk_id": 1
+    },
+    {
+      "totalitarianism": 2,
+      "national_honour": 3,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 1,
+      "heroism_sacrifice": 3,
+      "reasoning": "The excerpt emphasizes military camaraderie, readiness to fight, and acceptance of sacrifice for the nation, reflecting strong national honor and heroism/sacrifice. Obedience and hierarchical respect suggest totalitarian values. There is mild enemy imagery and an implicit justification of war, but no racial superiority or American ideological categories.",
+      "chunk_id": 2
+    },
+    {
+      "totalitarianism": 2,
+      "national_honour": 3,
+      "racial_superiority": 1,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 2,
+      "heroism_sacrifice": 3,
+      "reasoning": "The excerpt strongly emphasizes self-sacrifice and national honor through soldiers' duty and camaraderie, reflecting glorification of obedience and subordination characteristic of totalitarian ideology. Enemy imagery is present in the implied threat and tension with the Poles and the urgent preparedness; racial superiority is weakly implied through distinctions between 'us' and 'them'. Necessity of war is moderately present via the portrayal of imminent military action.",
+      "chunk_id": 3
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 2,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 1,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt portrays military operations, emphasizing duty, loyalty, and overcoming adversity, highlighting national honor and heroism/sacrifice. There is implicit totalitarianism in the strict military hierarchy and subordination, and some enemy threat and necessity of war are suggested through the combat context.",
+      "chunk_id": 4
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 2,
+      "racial_superiority": 1,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 2,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt reflects moderate national honour through the focus on soldiers' experiences and self-sacrifice, and strong enemy imagery with references to Poles as adversaries. Totalitarianism is weakly present in the group cohesion and obedience implied, while necessity of war appears implicitly in discussion of military conflict. Racial superiority is weakly present due to dehumanizing mention of the Polish. Heroism and sacrifice are moderately emphasized through concern for wounded soldiers and camaraderie.",
+      "chunk_id": 5
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 2,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 0,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt portrays moderate national honour through references to the war and celebration of life milestones under wartime conditions, along with glorification of sacrifice. Totalitarianism is weakly present in the adherence to war plans and collective duty. Necessity of war is implied by acceptance that the campaign 'is about to start,' while heroism and sacrifice are reflected in references to saving lives and enduring hardship.",
+      "chunk_id": 6
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 2,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 1,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt moderately glorifies military camaraderie and duty (national_honour, heroism_sacrifice) and contains implicit totalitarian elements through obedience and subordination to command; enemy imagery and necessity of war are lightly present through referencing the enemy and operational context.",
+      "chunk_id": 7
+    },
+    {
+      "totalitarianism": 1,
+      "national_honour": 2,
+      "racial_superiority": 0,
+      "freedom_from_tyranny": 0,
+      "universal_equality": 0,
+      "guardian_of_civilization": 0,
+      "necessity_of_war": 1,
+      "enemy_imagery": 1,
+      "heroism_sacrifice": 2,
+      "reasoning": "The excerpt emphasizes military operations and the duty of pilots, reflecting moderate national honour and heroism. There is implicit totalitarianism in the obedience and strict military structure. Enemy imagery and necessity of war are weakly present through conflict references.",
+      "chunk_id": 8
+    }
+  ]
+}
